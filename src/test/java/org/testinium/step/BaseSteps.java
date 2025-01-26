@@ -170,6 +170,14 @@ public class BaseSteps extends BaseTest {
             logger.info(key + " elementine " + text + " texti karakterler tek tek girlilerek yazıldı.");
         }
     }
+
+
+    @Step({"Clear text of element <key>",
+            "<key> elementinin text alanını temizle"})
+    public void clearInputArea(String key) {
+        findElement(key).clear();
+        logger.info(key + " elementinin text alani temizlendi.");
+    }
 }
 
 
