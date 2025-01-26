@@ -14,6 +14,8 @@ tags:@1akinKullaniciAdiileLogin
 * "Password" elementine "Mehmet.1998" textini yaz
 * "LoginButon" Elementine tıkla
 * Element var mı kontrol et "OpenMoneyTransferButton"
+* "2" saniye bekle
+
 
 
 
@@ -22,6 +24,7 @@ tags:@1akinKullaniciAdiileLogin
 tags:@2gecerliKullaniciAdiGecersizSifreKontrol
 * "https://catchylabs-webclient.testinium.com/signIn" adresine git
 * "Username" Elementine tıkla
+
 * "Username" elementine "Akin" textini yaz
 * "Password" Elementine tıkla
 * "Password" elementine "mehmet.1998" textini yaz
