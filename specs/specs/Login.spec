@@ -14,7 +14,7 @@ tags:@1akinKullaniciAdiileLogin
 * "Password" elementine "Mehmet.1998" textini yaz
 * "LoginButon" Elementine tıkla
 * Element var mı kontrol et "OpenMoneyTransferButton"
-* "2" saniye bekle
+
 
 
 

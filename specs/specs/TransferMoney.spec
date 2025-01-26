@@ -5,7 +5,7 @@ Created by mehmetakin
      
 1.Hesaplar Arasi Basarili Para Transfer İslemi
 -----------------------------------------------
-tags:1@hesaplarArasiBasariliParaTransferİslemi
+tags:@1hesaplarArasiBasariliParaTransferİslemi
 * Akin Kullanici Adi ile Login
 * "OpenMoneyTransferButton" Elementine tıkla
 * "TransferMoneyButton" Elementine tıkla
@@ -15,7 +15,7 @@ tags:1@hesaplarArasiBasariliParaTransferİslemi
 
 2.My Account Verilerin Kontrolu
 -------------------------------
-tags:2@myAccountVerilerinKontrolu
+tags:@2myAccountVerilerinKontrolu
 * Akin Kullanici Adi ile Login
 * "OpenMoneyTransferButton" Elementine tıkla
 * "Checking" elementi gorunur mu kontrol et

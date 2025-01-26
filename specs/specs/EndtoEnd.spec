@@ -11,6 +11,7 @@ tags:@1paraTransferiUygulamaTumİslevlerKontrol
 * Para Transfer İslemi
 * Add Money İslemi
 * Edit Name İslemi
+* "1" saniye bekle
 * "BackButton" Elementine tıkla
 * "Logout" Elementine tıkla
 * Element var mı kontrol et "CatchyLabsLogo"
