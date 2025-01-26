@@ -24,12 +24,12 @@ tags:@1akinKullaniciAdiileLogin
 tags:@2gecerliKullaniciAdiGecersizSifreKontrol
 * "https://catchylabs-webclient.testinium.com/signIn" adresine git
 * "Username" Elementine tıkla
-
 * "Username" elementine "Akin" textini yaz
 * "Password" Elementine tıkla
 * "Password" elementine "mehmet.1998" textini yaz
 * "LoginButon" Elementine tıkla
-//* "HataliLoginUyari" elementini kontrol et
+* Element var mı kontrol et "HataliLoginUyari"
+
 
 
 3.Gecersiz Kullanici Adi Gecerli Sifre Kontrol
@@ -41,7 +41,7 @@ tags:@3gecersizKullaniciAdiGecerliSifreKontrol
 * "Password" Elementine tıkla
 * "Password" elementine "Mehmet.1998" textini yaz
 * "LoginButon" Elementine tıkla
-//* "HataliLoginUyari" elementini kontrol et
+* Element var mı kontrol et "HataliLoginUyari"
 
 
 4.Sifre Olmadan Login
@@ -51,7 +51,7 @@ tags:@4sifreOlmadanLogin
 * "Username" Elementine tıkla
 * "Username" elementine "akin" textini yaz
 * "LoginButon" Elementine tıkla
-//* "HataliLoginUyari" elementini kontrol et
+* Element var mı kontrol et "HataliLoginUyari"
 
 
 5.Kullanici Adi Olmadan Login
@@ -61,7 +61,7 @@ tags:@5kullaniciAdiOlmadanLogin
 * "Password" Elementine tıkla
 * "Password" elementine "Mehmet.1998" textini yaz
 * "LoginButon" Elementine tıkla
-//* "HataliLoginUyari" elementini kontrol et
+* Element var mı kontrol et "HataliLoginUyari"
 
 
 
