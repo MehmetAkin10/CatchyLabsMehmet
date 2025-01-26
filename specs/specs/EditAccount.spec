@@ -1,9 +1,17 @@
-Specification Heading
+CatchyLabs Gauge Selenium
 =====================
-Created by testinium on 26.01.2025
+Created by mehmetakin
 
-This is an executable specification file which follows markdown syntax.
-Every heading in this file denotes a scenario. Every bulleted point denotes a step.
-     
-Scenario Heading
-----------------
+
+1.Hesap Adi Guncelleme Kontrol
+-----------------------------------------------
+tags:@1hesapAdiGuncellemeKontrol
+* Akin Kullanici Adi ile Login
+* "OpenMoneyTransferButton" Elementine tıkla
+* "EditAccountButton" Elementine tıkla
+* "EditAccountNameTextbox" Elementine tıkla
+* "EditAccountNameTextbox" elementinin text alanını temizle
+* "1" saniye bekle
+* "EditAccountNameTextbox" elementine "CatchyLabsMehmet" textini yaz
+* "UpdateButton" Elementine tıkla
+* Element var mı kontrol et "EditNameKontrol"

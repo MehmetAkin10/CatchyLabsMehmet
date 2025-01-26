@@ -145,19 +145,19 @@
     "type": "xpath"
   },
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "EditNameKontrol",
+    "value": "//div[text()='CatchyLabsMehmet']",
+    "type": "xpath"
   },
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "BackButton",
+    "value": "//div[text()='Back']",
+    "type": "xpath"
   },
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "CatchyLabsLogo",
+    "value": "img[src=\"/assets/assets/app-logo.90f554e51784b7039b0d3b64209c385b.png\"]",
+    "type": "css"
   },
   {
     "key": "",

@@ -6,3 +6,34 @@
 * "Password" elementine "Mehmet.1998" textini yaz
 * "LoginButon" Elementine tıkla
 * Element var mı kontrol et "OpenMoneyTransferButton"
+
+#Para Transfer İslemi
+* "TransferMoneyButton" Elementine tıkla
+* "TransferMoneyAmountTextbox" Elementine tıkla
+* "TransferMoneyAmountTextbox" elementine "100" textini yaz
+* "SendButton" Elementine tıkla
+
+#Add Money İslemi
+* "AddMoneyButton" Elementine tıkla
+* "CardNumberTextbox" Elementine tıkla
+* "CardNumberTextbox" elementine "1234123412341234" textini yaz
+* "CardHolderTextbox" Elementine tıkla
+* "CardHolderTextbox" elementine "Testinium-1" textini yaz
+* "ExpiryDateTextbox" Elementine tıkla
+* "ExpiryDateTextbox" elementine "1026" textini yaz
+* "CVVTextbox" Elementine tıkla
+* "CVVTextbox" elementine "110" textini yaz
+* "AddMoneyAmountTextbox" Elementine tıkla
+* "AddMoneyAmountTextbox" elementine "100" textini yaz
+* "2" saniye bekle
+* "AddButton" Elementine tıkla
+* Element var mı kontrol et "AddAmountKontrol"
+
+#Edit Name İslemi
+* "EditAccountButton" Elementine tıkla
+* "EditAccountNameTextbox" Elementine tıkla
+* "EditAccountNameTextbox" elementinin text alanını temizle
+* "1" saniye bekle
+* "EditAccountNameTextbox" elementine "CatchyLabsMehmet" textini yaz
+* "UpdateButton" Elementine tıkla
+* Element var mı kontrol et "EditNameKontrol"
