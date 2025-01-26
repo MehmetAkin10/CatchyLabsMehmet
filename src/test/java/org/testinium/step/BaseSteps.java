@@ -152,6 +152,24 @@ public class BaseSteps extends BaseTest {
         logger.info(key + " elementi bulundu.");
         return null;
     }
+    @Step("<key> elementi gorunur mu kontrol et")
+    public void checkElementwithEnable(String key) {
+        assertTrue(findElement(key).isEnabled());
+        logger.info(key + " elementi gorunur durumda");
+    }
+
+    @Step({"<text> textini <key> elemente tek tek yaz",
+            "Write <text> to element <key> OnebyOne"})
+    public void sendKeyOneByOne(String text, String key) throws InterruptedException {
+        WebElement field = findElement(key);
+        field.clear();
+        if (!key.equals("")) {
+            for (char ch : text.toCharArray())
+                findElement(key).sendKeys(Character.toString(ch));
+            Thread.sleep(10);
+            logger.info(key + " elementine " + text + " texti karakterler tek tek girlilerek yazıldı.");
+        }
+    }
 }
 
 

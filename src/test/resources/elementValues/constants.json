@@ -81,7 +81,7 @@
   },
   {
     "key": "AddMoneyAmountTextbox",
-    "value": "(//input[@class=\"css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8\"])[5]",
+    "value": "(//input[@inputmode=\"numeric\"])[4]",
     "type": "xpath"
   },
   {
@@ -103,6 +103,66 @@
     "key": "HataliLoginUyari",
     "value": "//div[text()='Username or Password Invalid!']",
     "type": "xpath"
+  },
+  {
+    "key": "Checking",
+    "value": "//div[text()='CHECKING']",
+    "type": "xpath"
+  },
+  {
+    "key": "CreationTime",
+    "value": "//div[text()='21-01-2025 14:04:50']",
+    "type": "xpath"
+  },
+  {
+    "key": "AddAmountKontrol",
+    "value": "(//div[@class=\"css-146c3p1 r-1ozpqpt r-yv33h5 r-1b43r93\"])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "AddZorunluAlanKontrol",
+    "value": "//div[text()='Required']",
+    "type": "xpath"
+  },
+  {
+    "key": "AddXicon",
+    "value": "//div[text()='\uE633']",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyCardNumberTooShortKontrol",
+    "value": "//div[text()='Too Short!']",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyCardNumberTooLongKontrol",
+    "value": "//div[text()='Too Long!']",
+    "type": "xpath"
+  },
+  {
+    "key": "ExpiryDateHataKontrol",
+    "value": "//div[text()='Wrong date. Please give a correct date']",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
   },
   {
     "key": "",
