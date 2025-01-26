@@ -1,0 +1,119 @@
+[
+  {
+    "key": "Username",
+    "value": "input[placeholder=\"Username\"]",
+    "type": "css"
+  },
+  {
+    "key": "Password",
+    "value": "input[placeholder=\"Password\"]",
+    "type": "css"
+  },
+  {
+    "key": "LoginButon",
+    "value": "//div[text()='Login']",
+    "type": "xpath"
+  },
+  {
+    "key": "OpenMoneyTransferButton",
+    "value": "//div[text()='Open Money Transfer']",
+    "type": "xpath"
+  },
+  {
+    "key": "Logout",
+    "value": "//div[text()='Logout']",
+    "type": "xpath"
+  },
+  {
+    "key": "TransferMoneyButton",
+    "value": "//div[text()='Transfer money']",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyButton",
+    "value": "//div[text()='Add money']",
+    "type": "xpath"
+  },
+  {
+    "key": "EditAccountButton",
+    "value": "//div[text()='Edit account']",
+    "type": "xpath"
+  },
+  {
+    "key": "TransferMoneyAmountTextbox",
+    "value": "input[class=\"css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8\"]",
+    "type": "css"
+  },
+  {
+    "key": "SendButton",
+    "value": "//div[text()='Send']",
+    "type": "xpath"
+  },
+  {
+    "key": "ReceiverAccountCombobox",
+    "value": "(//div[@class='css-175oi2r r-1777fci'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "Testinium5",
+    "value": "//option[text()='Testinium-5']",
+    "type": "xpath"
+  },
+  {
+    "key": "CardNumberTextbox",
+    "value": "(//input[@class=\"css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8\"])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "CardHolderTextbox",
+    "value": "(//input[@class=\"css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8\"])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "ExpiryDateTextbox",
+    "value": "(//input[@class=\"css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8\"])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "CVVTextbox",
+    "value": "(//input[@class=\"css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8\"])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyAmountTextbox",
+    "value": "(//input[@class=\"css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8\"])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "AddButton",
+    "value": "//div[text()='Add']",
+    "type": "xpath"
+  },
+  {
+    "key": "EditAccountNameTextbox",
+    "value": "//input[@class=\"css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "UpdateButton",
+    "value": "//div[text()='UPDATE']",
+    "type": "xpath"
+  },
+  {
+    "key": "HataliLoginUyari",
+    "value": "//div[text()='Username or Password Invalid!']",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+
+
+]

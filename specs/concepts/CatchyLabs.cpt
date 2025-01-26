@@ -1,0 +1,8 @@
+#Akin Kullanici Adi ile Login
+* "https://catchylabs-webclient.testinium.com/signIn" adresine git
+* "Username" Elementine tıkla
+* "Username" elementine "Akin" textini yaz
+* "Password" Elementine tıkla
+* "Password" elementine "Mehmet.1998" textini yaz
+* "LoginButon" Elementine tıkla
+* "OpenMoneyTransferButton" elementini kontrol et
